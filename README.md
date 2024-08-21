@@ -50,8 +50,8 @@ EDSR	DIV2K	32.46/0.8968	28.80/0.7876	27.71/0.7420	26.64/0.8033	31.02/0.9148
 RCAN	DIV2K	32.63/0.9002	28.87/0.7889	27.77/0.7436	26.82/ 0.8087	31.22/ 0.9173
 RRDB(ours)	DF2K	32.73/0.9011	28.99/0.7917	27.85/0.7455	27.03/0.8153	31.66/0.9196
 
-input- <img width="240" alt="Screenshot 2024-08-21 at 4 17 05 PM" src="https://github.com/user-attachments/assets/a80df9a7-9611-4bf0-82f4-7403ee9352a5">
-output- <img width="808" alt="Screenshot 2024-08-21 at 4 17 32 PM" src="https://github.com/user-attachments/assets/693ae672-c898-48ac-b9f3-727ae0a79c03">
+**Input**- <img width="240" alt="Screenshot 2024-08-21 at 4 17 05 PM" src="https://github.com/user-attachments/assets/a80df9a7-9611-4bf0-82f4-7403ee9352a5">
+**Output**- <img width="808" alt="Screenshot 2024-08-21 at 4 17 32 PM" src="https://github.com/user-attachments/assets/693ae672-c898-48ac-b9f3-727ae0a79c03">
 
 
 
